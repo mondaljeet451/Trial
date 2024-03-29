@@ -7,5 +7,7 @@ public class A {
 	String[] str = {"Hi", "Java", "from", "Github"}
 
 	System.out.println(str);
+
+	String y = "Github"
     }
 }
